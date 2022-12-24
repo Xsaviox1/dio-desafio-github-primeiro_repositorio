@@ -1,0 +1,15 @@
+Terminal =>	mkdir - cria pastas
+		cd - acessa diretorio
+		ls - mostra or arquivos de um diretório
+		echo > ..._.txt - cria arquivos com texto
+		../ - pasta acima
+
+Git      => 	git init - iniciar
+		git add * - adicionar alteração ao arquivo
+		git commit - enviar alteração para o GitHub * <-m"..." adiciona mensagem sobre as alterações>
+		git pull - receber alterações mais atuais no GitHub
+		git clone <link> - receber arquivo do GitHub para a máquina
+		git status - verificar o estado atual do repositório
+		
+Comandos básicos de Markdown => https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
+		
